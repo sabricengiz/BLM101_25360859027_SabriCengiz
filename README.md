@@ -1,17 +1,16 @@
 # BLM101_25360859027_SabriCengiz
-Öğrenci Bilgileri : Muhammed Sabri Cengiz   
+Öğrenci Bilgileri : Muhammed Sabri CENGİZ 
 
-NO. : 25360859027
+NUMARA: 25360859027
 
 Proje Başlığı : Veri Manipülasyonu ve Mantık Kapıları
 
 YouTube linki :
 
 
-Proje Açıklaması: Kodun ne yaptığı, nasıl çalıştırılacağı (kurulum gerekip gerekmediği) ve kodun 
-çalışma mantığının detaylı açıklaması (Markdown formatında). 
+Proje Açıklaması: 
 
-# Sanal Mantık Kapısı Simülatörü (Logic Gate Simulator)
+# Sanal Mantık Kapısı Simülatörü-1 (Logic Gate Simulator)
 Bu proje, Bilgisayar Mimarisi ve Sayısal Tasarım konuları kapsamında, temel mantık kapılarının (AND, OR, XOR, NOT) çalışma prensiplerini simüle etmek amacıyla Python dili kullanılarak geliştirilmiştir.
 
 Program, kullanıcıdan iki adet ikilik (binary) giriş değeri alır, seçilen mantık kapısına göre işlemi gerçekleştirir ve doğruluk tablosuna uygun sonucu ekrana yansıtır.
@@ -83,8 +82,7 @@ Lütfen sadece 0 veya 1 giriniz!
 1. Girişi (0 veya 1) girin: çıkış
 Programdan çikiliyor...
 
-# Geliştirici Notu
-Bu proje, bilgisayar mühendisliği eğitimim sürecinde algoritmik düşünme yeteneğimi geliştirmek ve Bitsel Operatörlerin (Bitwise Operators) pratikteki kullanımını kavramak amacıyla hazırlanmıştır.
+eğimi geliştirmek ve Bitsel Operatörlerin (Bitwise Operators) pratikteki kullanımını kavramak amacıyla hazırlanmıştır.
 
 
 
@@ -92,7 +90,7 @@ Bu proje, bilgisayar mühendisliği eğitimim sürecinde algoritmik düşünme y
 
 
 
-# Doğruluk Tablosu Simülasyonu (Truth Table Generator)
+# Doğruluk Tablosu Simülasyonu-2 (Truth Table Generator)
 Bu modül, mantık devreleri dersi kapsamında, 3 değişkenli karmaşık bir mantıksal ifadenin (A AND (B OR C)) davranışını analiz etmek için geliştirilmiştir.Kullanıcıdan veri girişi beklemek yerine, algoritma tüm olası durumları ($2^3 = 8$ ihtimal) otomatik olarak tarar ve sonuçları düzenli bir tablo halinde listeler.
 
 # Modül Özellikleri
@@ -123,8 +121,8 @@ DOĞRULUK TABLOSU SİMÜLASYONU
  1  |  1  |  1  |    1     |   1  
 ---------------------------------------------
  Tüm olasiliklarla Tablo başariyla oluşturuldu.
+
 # Geliştirici Notu & Kazanımlar
 Bu projeyi geliştirirken;İç İçe Döngüler (Nested Loops): Çok değişkenli sistemlerin tüm olasılıklarını tarama mantığını pekiştirdim.String Formatting: Python'da metin hizalama için kullanılan ^ (merkezleme) operatörünü yeni öğrendim ve bu projede uygulayarak terminal çıktılarının daha profesyonel görünmesini sağladım.Bitsel Operatörler: | (OR) ve & (AND) operatörlerinin işlem önceliğiyle kullanımını pratik ettim.
-
 
 Her türlü geri bildirime ve katkıya açıktır.
