@@ -5,7 +5,7 @@ NUMARA: 25360859027
 
 Proje Başlığı : Veri Manipülasyonu ve Mantık Kapıları
 
-YouTube linki :
+YouTube linki : https://youtu.be/mwQl3THiNiY
 
 
 Proje Açıklaması: 
